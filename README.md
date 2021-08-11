@@ -1,2 +1,1 @@
-# project-27
-stage 5
+# Project Template 27
